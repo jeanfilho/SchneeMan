@@ -5,17 +5,19 @@ public class PlayerMovement : MonoBehaviour {
 
 	//Components of Game Object
 	PlayerStatus status;
-	CharacterController controller;
+	Rigidbody rbody;
+	Collider col;
 
 	// Use this for initialization
 	void Start () {
-		controller = gameObject.GetComponent<CharacterController>();
 		status = gameObject.GetComponent<PlayerStatus>();
+		rbody = gameObject.GetComponent<Rigidbody> ();
+		col = gameObject.GetComponent<Collider> ();
 	}
 
-	// Update is called once per frame
-	void Update () {
-		if (Input.GetKey("w"))
-			controller.SimpleMove(transform.forward * status.speed);
+	// Update is called once per timestep
+	void FixedUpdate () {
+		rbody.AddForce (transform.forward * Input.GetAxis("Horizontal") * status.speed);
+		rbody.AddForce (transform.right * Input.GetAxis("Vertical") * status.speed);
 	}
 }
