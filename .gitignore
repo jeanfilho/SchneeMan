@@ -43,6 +43,6 @@ Temporary Items
 .apdisk
 
 # Our Project Directories
-/Library/
-/ProjectSettings/
-/Temp/
+Library/**
+ProjectSettings/**
+Temp/**
