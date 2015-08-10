@@ -43,5 +43,6 @@ Temporary Items
 .apdisk
 
 # Our Project Directories
-Library/
-ProjectSettings/
+$GIT_DIR/Library/
+$GIT_DIR/ProjectSettings/
+$GIT_DIR/Temp/
