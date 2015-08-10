@@ -4,8 +4,10 @@ using System.Collections;
 public class PlayerStatus : MonoBehaviour {
 
 	//Health, status and abilities
-	public int hp = 100;
-	public int speed = 10;
+	public float hp = 100;
+	public float speed = 10;
+	public float turnspeed = 10;
+	public float jumpforce = 10;
 
 	// Use this for initialization
 	void Start () {
