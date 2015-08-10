@@ -1,7 +1,7 @@
 # Our Project Directories
-Library\
-ProjectSettings\
-Temp\
+Library/
+ProjectSettings/
+Temp/
 
 # Windows image file caches
 Thumbs.db
