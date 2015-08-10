@@ -42,12 +42,11 @@ public class PlayerMovement : MonoBehaviour {
 			rbody.AddForce (gameObject.transform.up * status.jumpforce);
 			isGrounded = false;
 		}
-		Debug.Log (rbody.velocity.magnitude);
 
 	}
 
-	void OnCollisionEnter(Collision collision){
-		if (collision.gameObject.name.Equals ("Water"))
+	void OnTriggerEnter(Collider other){
+		if (other.gameObject.name == "Water")
 			status.hp = 0;
 	}
 }
