@@ -16,6 +16,22 @@ public class PlayerStatus : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
+
+	//Power-ups
+	void OnTriggerEnter(Collider other) {
+		if(other.gameObject.tag == "Erdbeereis") {
+			Destroy(other.gameObject);
+			//gameObject.renderer.material.color = Color.red;
+			if(hp < 100) {
+				hp++;
+				Debug.Log(hp);
+			} else if(hp == 100) {
+				hp=100;
+				Debug.Log(hp);
+			}
+		}
+	}
+
 }

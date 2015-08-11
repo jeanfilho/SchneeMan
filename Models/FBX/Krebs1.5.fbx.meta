@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: d1d33e9a69c7f794d921b225e3661378
+timeCreated: 1439225555
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Augen
+    100004: BeinCluster
+    100006: BeinCluster.001
+    100008: KrabbenFusLinks
+    100010: KrabbenFusLinks.001
+    100012: KrabbenFusLinks.001_end
+    100014: KrabbenFusLinks.002
+    100016: KrabbenFusLinks.002_end
+    100018: KrabbenFusLinks.003
+    100020: KrabbenFusLinks.003_end
+    100022: KrabbenFusLinks_end
+    100024: KrabbenFusRechts
+    100026: KrabbenFusRechts.001
+    100028: KrabbenFusRechts.001_end
+    100030: KrabbenFusRechts.002
+    100032: KrabbenFusRechts.002_end
+    100034: KrabbenFusRechts.003
+    100036: KrabbenFusRechts.003_end
+    100038: KrabbenFusRechts_end
+    100040: KrabbenLinkeHand1
+    100042: KrabbenLinkeHand1_end
+    100044: KrabbenLinkeHand2
+    100046: KrabbenLinkeHand2_end
+    100048: KrabbenLinkerArm1
+    100050: KrabbenLinkerArm2
+    100052: KrabbenLinkesBeinMitte
+    100054: KrabbenLinkesBeinMitte.001
+    100056: KrabbenLinkesBeinMitte.002
+    100058: KrabbenLinkesBeinMitte.003
+    100060: KrabbenLinkesBeinOben
+    100062: KrabbenLinkesBeinOben.001
+    100064: KrabbenLinkesBeinOben.002
+    100066: KrabbenLinkesBeinOben1
+    100068: KrabbenLinkesBeinUnten
+    100070: KrabbenLinkesBeinUnten.001
+    100072: KrabbenLinkesBeinUnten.002
+    100074: KrabbenLinkesBeinUnten.003
+    100076: KrabbenRechteHand1
+    100078: KrabbenRechteHand1_end
+    100080: KrabbenRechteHand2
+    100082: KrabbenRechteHand2_end
+    100084: KrabbenRechterArm1
+    100086: KrabbenRechterArm2
+    100088: KrabbenRechtesBeinMitte
+    100090: KrabbenRechtesBeinMitte.001
+    100092: KrabbenRechtesBeinMitte.002
+    100094: KrabbenRechtesBeinMitte.003
+    100096: KrabbenRechtesBeinOben
+    100098: KrabbenRechtesBeinOben.001
+    100100: KrabbenRechtesBeinOben.002
+    100102: KrabbenRechtesBeinOben1
+    100104: KrabbenRechtesBeinUnten
+    100106: KrabbenRechtesBeinUnten.001
+    100108: KrabbenRechtesBeinUnten.002
+    100110: KrabbenRechtesBeinUnten.003
+    100112: //RootNode
+    100114: KrebsArmlinks
+    100116: KrebsArmRechts
+    100118: KrebsBeine
+    100120: KrebsKorper
+    400000: Armature
+    400002: Augen
+    400004: BeinCluster
+    400006: BeinCluster.001
+    400008: KrabbenFusLinks
+    400010: KrabbenFusLinks.001
+    400012: KrabbenFusLinks.001_end
+    400014: KrabbenFusLinks.002
+    400016: KrabbenFusLinks.002_end
+    400018: KrabbenFusLinks.003
+    400020: KrabbenFusLinks.003_end
+    400022: KrabbenFusLinks_end
+    400024: KrabbenFusRechts
+    400026: KrabbenFusRechts.001
+    400028: KrabbenFusRechts.001_end
+    400030: KrabbenFusRechts.002
+    400032: KrabbenFusRechts.002_end
+    400034: KrabbenFusRechts.003
+    400036: KrabbenFusRechts.003_end
+    400038: KrabbenFusRechts_end
+    400040: KrabbenLinkeHand1
+    400042: KrabbenLinkeHand1_end
+    400044: KrabbenLinkeHand2
+    400046: KrabbenLinkeHand2_end
+    400048: KrabbenLinkerArm1
+    400050: KrabbenLinkerArm2
+    400052: KrabbenLinkesBeinMitte
+    400054: KrabbenLinkesBeinMitte.001
+    400056: KrabbenLinkesBeinMitte.002
+    400058: KrabbenLinkesBeinMitte.003
+    400060: KrabbenLinkesBeinOben
+    400062: KrabbenLinkesBeinOben.001
+    400064: KrabbenLinkesBeinOben.002
+    400066: KrabbenLinkesBeinOben1
+    400068: KrabbenLinkesBeinUnten
+    400070: KrabbenLinkesBeinUnten.001
+    400072: KrabbenLinkesBeinUnten.002
+    400074: KrabbenLinkesBeinUnten.003
+    400076: KrabbenRechteHand1
+    400078: KrabbenRechteHand1_end
+    400080: KrabbenRechteHand2
+    400082: KrabbenRechteHand2_end
+    400084: KrabbenRechterArm1
+    400086: KrabbenRechterArm2
+    400088: KrabbenRechtesBeinMitte
+    400090: KrabbenRechtesBeinMitte.001
+    400092: KrabbenRechtesBeinMitte.002
+    400094: KrabbenRechtesBeinMitte.003
+    400096: KrabbenRechtesBeinOben
+    400098: KrabbenRechtesBeinOben.001
+    400100: KrabbenRechtesBeinOben.002
+    400102: KrabbenRechtesBeinOben1
+    400104: KrabbenRechtesBeinUnten
+    400106: KrabbenRechtesBeinUnten.001
+    400108: KrabbenRechtesBeinUnten.002
+    400110: KrabbenRechtesBeinUnten.003
+    400112: //RootNode
+    400114: KrebsArmlinks
+    400116: KrebsArmRechts
+    400118: KrebsBeine
+    400120: KrebsKorper
+    2300000: Augen
+    2300002: KrebsKorper
+    3300000: Augen
+    3300002: KrebsKorper
+    4300000: KrebsKorper
+    4300002: Augen
+    4300004: KrebsArmlinks
+    4300006: KrebsArmRechts
+    4300008: BeinCluster
+    4300010: BeinCluster.001
+    7400000: Armature|Krabbe Laufen
+    7400002: Armature|KrabbeSchlagen
+    7400004: KrebsBeine|Krabbe Laufen
+    7400006: KrebsBeine|KrebsBeineAction
+    7400008: BeinCluster.001|Krabbe Laufen
+    9500000: //RootNode
+    13700000: BeinCluster
+    13700002: BeinCluster.001
+    13700004: KrebsArmlinks
+    13700006: KrebsArmRechts
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

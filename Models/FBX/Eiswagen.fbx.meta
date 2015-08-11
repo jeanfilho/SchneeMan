@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 996225d4860317241b7622e6436ffda7
+timeCreated: 1439225553
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Dach
+    100002: Eisbehalter
+    100004: Eisbehalter.001
+    100006: Eisbehalter.002
+    100008: Eisbehalter.003
+    100010: Eishalter
+    100012: //RootNode
+    100014: Rad
+    100016: Rad.001
+    100018: Rad.002
+    100020: Stab
+    100022: Stab.001
+    100024: Wagen
+    400000: Dach
+    400002: Eisbehalter
+    400004: Eisbehalter.001
+    400006: Eisbehalter.002
+    400008: Eisbehalter.003
+    400010: Eishalter
+    400012: //RootNode
+    400014: Rad
+    400016: Rad.001
+    400018: Rad.002
+    400020: Stab
+    400022: Stab.001
+    400024: Wagen
+    2300000: Dach
+    2300002: Eisbehalter
+    2300004: Eisbehalter.001
+    2300006: Eisbehalter.002
+    2300008: Eisbehalter.003
+    2300010: Eishalter
+    2300012: Rad
+    2300014: Rad.001
+    2300016: Rad.002
+    2300018: Stab
+    2300020: Stab.001
+    2300022: Wagen
+    3300000: Dach
+    3300002: Eisbehalter
+    3300004: Eisbehalter.001
+    3300006: Eisbehalter.002
+    3300008: Eisbehalter.003
+    3300010: Eishalter
+    3300012: Rad
+    3300014: Rad.001
+    3300016: Rad.002
+    3300018: Stab
+    3300020: Stab.001
+    3300022: Wagen
+    4300000: Stab.001
+    4300002: Dach
+    4300004: Stab
+    4300006: Wagen
+    4300008: Rad.002
+    4300010: Rad.001
+    4300012: Eishalter
+    4300014: Eisbehalter.003
+    4300016: Eisbehalter.002
+    4300018: Eisbehalter.001
+    4300020: Eisbehalter
+    4300022: Rad
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
