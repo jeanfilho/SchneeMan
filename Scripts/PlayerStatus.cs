@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerStatus : MonoBehaviour {
+public class PlayerStatus : Photon.MonoBehaviour {
 
 	//Health, status and abilities
 	public float hp = 100;
@@ -16,7 +16,6 @@ public class PlayerStatus : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
 	}
 
 	//Power-ups
