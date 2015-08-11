@@ -27,7 +27,7 @@ public class PlayerShoot : Photon.MonoBehaviour
 	void ManageInput(){
 		if (Input.GetMouseButtonDown (0) && nextShot <= Time.time) 
 		{
-			Rigidbody instance = Instantiate (ball, gameObject.transform.position + adjust, Quaternion.identity) as Rigidbody;
+			Rigidbody instance = PhotonNetwork.Instantiate (ball.name, gameObject.transform.position + adjust, Quaternion.identity,0).GetComponent<Rigidbody>();
 			Vector3 fwd = (transform.TransformDirection(Vector3.right));
 			instance.AddForce (fwd * power);
 			nextShot = Time.time + coolDown;
