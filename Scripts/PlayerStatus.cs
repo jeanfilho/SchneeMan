@@ -8,18 +8,14 @@ public class PlayerStatus : Photon.MonoBehaviour {
 	public float speed = 30;
 	public float turnspeed = 10;
 	public float jumpforce = 300;
-
-<<<<<<< HEAD
 	//Components
 	public GameObject playerCamera;
-=======
 	public float coins;
 
 	bool damaged;
 
 	private bool boughtIce = false;
 	private bool showPopUp = false;
->>>>>>> origin/master
 
 	// Use this for initialization
 	void Start () {
