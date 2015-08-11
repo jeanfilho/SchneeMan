@@ -21,8 +21,9 @@ public class PlayerStatus : MonoBehaviour {
 
 	//Power-ups
 	void OnTriggerEnter(Collider other) {
-		if(other.gameObject.tag == "Eis") {
+		if(other.gameObject.tag == "Erdbeereis") {
 			Destroy(other.gameObject);
+			//gameObject.renderer.material.color = Color.red;
 			if(hp < 100) {
 				hp++;
 				Debug.Log(hp);
