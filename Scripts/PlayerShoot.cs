@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerShoot : MonoBehaviour 
+public class PlayerShoot : Photon.MonoBehaviour 
 {
 	public Rigidbody ball;
 	public float power;
@@ -17,6 +17,11 @@ public class PlayerShoot : MonoBehaviour
 
 	void Update()
 	{
+		if(photonView.isMine)
+			ManageInput;
+	}
+
+	void ManageInput(){
 		if (Input.GetMouseButtonDown (0) && nextShot <= Time.time) 
 		{
 			Rigidbody instance = Instantiate (ball, gameObject.transform.position + adjust, Quaternion.identity) as Rigidbody;

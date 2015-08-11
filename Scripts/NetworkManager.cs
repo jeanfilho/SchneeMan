@@ -7,7 +7,7 @@ public class NetworkManager : MonoBehaviour {
 	private RoomInfo[] roomsList;
 
 
-	void Start()
+	void Awake()
 	{
 		PhotonNetwork.ConnectUsingSettings("0.1");
 	}
@@ -17,7 +17,6 @@ public class NetworkManager : MonoBehaviour {
 		GUILayout.Label(PhotonNetwork.connectionStateDetailed.ToString());
 		if (roomsList != null) {
 			for (int i = 0; i < roomsList.Length; i++) {
-				Debug.Log ("Game found");
 				if (GUI.Button (new Rect (500, 250 + (110 * i), 250, 100), "Join " + roomsList [i].name))
 					PhotonNetwork.JoinRoom (roomsList [i].name);
 			}
@@ -34,7 +33,6 @@ public class NetworkManager : MonoBehaviour {
 	void OnReceivedRoomListUpdate()
 	{
 		roomsList = PhotonNetwork.GetRoomList();
-		Debug.Log("Received a list: " + roomsList.Length);
 	}
 
 	public void CreateRoom(){
@@ -49,7 +47,7 @@ public class NetworkManager : MonoBehaviour {
 	}
 
 	void OnJoinedRoom(){
-		Application.LoadLevel ("Level1");
+		PhotonNetwork.LoadLevel ("Level1");
 	}
 	
 	
