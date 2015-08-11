@@ -1,38 +1,28 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerShoot : MonoBehaviour {
+public class PlayerShoot : MonoBehaviour 
+{
+	public Rigidbody ball;
+	public float power;
+	public Vector3 adjust;
+	public float coolDown;
 
-	public Transform player;
-	public float thrust_x;  //Wurfstärke des Spielers
-	public float thrust_y;
-	public float thrust_z;
-	//public GameObject Ball;
-
-	private float mousePosition_x;
-	private float mousePosition_y;
-	private float mousePosition_z;
-	private Vector3 shootDirection;
+	private float nextShot;
 
 
-
-	private Rigidbody rb;
-
-	// Use this for initialization
-	void Start () 
+	void start()
 	{
-		rb = GetComponent<Rigidbody> ();
 	}
-	
-	// Update is called once per frame
-	void Update () 
+
+	void Update()
 	{
-		if (Input.GetMouseButtonDown (0))
+		if (Input.GetMouseButtonDown (0) && nextShot <= Time.time) 
 		{
-
-			rb.useGravity = true;
-			rb.AddForce (thrust_x, thrust_y, 0f);
+			Rigidbody instance = Instantiate (ball, gameObject.transform.position + adjust, Quaternion.identity) as Rigidbody;
+			Vector3 fwd = (transform.TransformDirection(Vector3.right));
+			instance.AddForce (fwd * power);
+			nextShot = Time.time + coolDown;
 		}
-
 	}
 }
