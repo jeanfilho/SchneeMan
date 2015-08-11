@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ball : MonoBehaviour 
+public class ball : Photon.MonoBehaviour 
 {
 	public ParticleSystem particle;
 	MeshRenderer mesh;
