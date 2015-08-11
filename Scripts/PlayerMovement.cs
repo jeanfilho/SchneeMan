@@ -25,8 +25,12 @@ public class PlayerMovement : Photon.MonoBehaviour {
 
 	// Update is called once per timestep
 	void FixedUpdate () {
-		if (photonView.isMine)
+		if (GameManager.isMultiplayer) {
+			if (photonView.isMine)
+				ManageInput ();
+		} else
 			ManageInput ();
+
 	}
 
 	void ManageInput(){

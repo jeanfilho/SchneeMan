@@ -8,6 +8,7 @@ public class PlayerStatus : Photon.MonoBehaviour {
 	public float speed = 30;
 	public float turnspeed = 10;
 	public float jumpforce = 300;
+
 	//Components
 	public GameObject playerCamera;
 	public float coins;
@@ -24,7 +25,7 @@ public class PlayerStatus : Photon.MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (playerCamera.activeSelf && !photonView.isMine)
+		if (playerCamera.activeSelf && !photonView.isMine && GameManager.isMultiplayer)
 			playerCamera.SetActive (false);
 	}
 

@@ -5,16 +5,17 @@ public class GameManager : MonoBehaviour {
 
 	public GameObject playerPrefab;
 	public GameObject topView;
-	bool ready = true;
+	public static bool isMultiplayer = true;
 
 	void Awake(){
 		//Creates a player
 		if (PhotonNetwork.inRoom) {
 			PhotonNetwork.Instantiate (playerPrefab.name, Vector3.up * 63, Quaternion.identity, 0);
 			PhotonNetwork.automaticallySyncScene = true;
+		} else {
+			isMultiplayer = false;
+			GameObject other = Instantiate (playerPrefab);
 		}
-		else
-			Instantiate (playerPrefab);
 
 		topView.SetActive (false);
 	}

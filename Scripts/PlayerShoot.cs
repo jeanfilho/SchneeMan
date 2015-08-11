@@ -17,8 +17,11 @@ public class PlayerShoot : Photon.MonoBehaviour
 
 	void Update()
 	{
-		if(photonView.isMine)
-			ManageInput();
+		if (GameManager.isMultiplayer) {
+			if (photonView.isMine)
+				ManageInput ();
+		} else
+			ManageInput ();
 	}
 
 	void ManageInput(){
