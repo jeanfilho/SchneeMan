@@ -8,7 +8,7 @@ public class EnemyCreator : Photon.MonoBehaviour {
 	public GameObject[] enemy;	//Array von Gegnerarten
 
 	// Use this for initialization
-	void Start () 
+	void Awake () 
 	{
 		if (GameManager.isMultiplayer) {
 
@@ -20,8 +20,11 @@ public class EnemyCreator : Photon.MonoBehaviour {
 		} 
 		else 
 		{
-			for (int i = 0; i < totalEnemies; i++) {
-				Instantiate (enemy [Random.Range (0, enemy.Length)], spawnPoints [i].position, Quaternion.identity);
+			if (totalEnemies <= spawnPoints.Length)
+			{
+				for (int i = 0; i < totalEnemies; i++) {
+					Instantiate (enemy [Random.Range (0, enemy.Length)], spawnPoints [i].position, Quaternion.identity);
+				}
 			}
 		}
 	}
