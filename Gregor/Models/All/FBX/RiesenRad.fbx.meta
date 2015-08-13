@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 2cb351572c28e6746a08dad21413d70b
+timeCreated: 1439369915
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.005
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.009_end
+    100024: Bone.010
+    100026: Bone.010_end
+    100028: Bone.011
+    100030: Bone.011_end
+    100032: Bone.012
+    100034: Bone.012_end
+    100036: Bone.013
+    100038: Bone.013_end
+    100040: Bone.014
+    100042: Bone.014_end
+    100044: Bone.015
+    100046: Bone.015_end
+    100048: Bone.016
+    100050: Bone.016_end
+    100052: Cube
+    100054: Cube.001
+    100056: Halterung
+    100058: Kabine
+    100060: Kabine.001
+    100062: Kabine.002
+    100064: Kabine.003
+    100066: Kabine.004
+    100068: Kabine.005
+    100070: Kabine.006
+    100072: Kabine.007
+    100074: KorbHalter
+    100076: KorbHalter.001
+    100078: KorbHalter.002
+    100080: KorbHalter.003
+    100082: KorbHalter.004
+    100084: KorbHalter.005
+    100086: KorbHalter.006
+    100088: KorbHalter.007
+    100090: RadSeiteA
+    100092: RadSeiteB
+    100094: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.005
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.009_end
+    400024: Bone.010
+    400026: Bone.010_end
+    400028: Bone.011
+    400030: Bone.011_end
+    400032: Bone.012
+    400034: Bone.012_end
+    400036: Bone.013
+    400038: Bone.013_end
+    400040: Bone.014
+    400042: Bone.014_end
+    400044: Bone.015
+    400046: Bone.015_end
+    400048: Bone.016
+    400050: Bone.016_end
+    400052: Cube
+    400054: Cube.001
+    400056: Halterung
+    400058: Kabine
+    400060: Kabine.001
+    400062: Kabine.002
+    400064: Kabine.003
+    400066: Kabine.004
+    400068: Kabine.005
+    400070: Kabine.006
+    400072: Kabine.007
+    400074: KorbHalter
+    400076: KorbHalter.001
+    400078: KorbHalter.002
+    400080: KorbHalter.003
+    400082: KorbHalter.004
+    400084: KorbHalter.005
+    400086: KorbHalter.006
+    400088: KorbHalter.007
+    400090: RadSeiteA
+    400092: RadSeiteB
+    400094: //RootNode
+    2300000: Cube
+    2300002: Cube.001
+    3300000: Cube
+    3300002: Cube.001
+    4300000: Halterung
+    4300002: KorbHalter.007
+    4300004: Kabine
+    4300006: KorbHalter.006
+    4300008: Kabine.007
+    4300010: KorbHalter.005
+    4300012: Kabine.001
+    4300014: KorbHalter.004
+    4300016: Kabine.002
+    4300018: KorbHalter.003
+    4300020: Kabine.005
+    4300022: KorbHalter.002
+    4300024: Kabine.006
+    4300026: KorbHalter.001
+    4300028: Kabine.004
+    4300030: KorbHalter
+    4300032: Kabine.003
+    4300034: RadSeiteB
+    4300036: RadSeiteA
+    4300038: Cube.001
+    4300040: Cube
+    7400000: Armature|RiesenRadDreeeeh
+    9500000: //RootNode
+    13700000: Halterung
+    13700002: Kabine
+    13700004: Kabine.001
+    13700006: Kabine.002
+    13700008: Kabine.003
+    13700010: Kabine.004
+    13700012: Kabine.005
+    13700014: Kabine.006
+    13700016: Kabine.007
+    13700018: KorbHalter
+    13700020: KorbHalter.001
+    13700022: KorbHalter.002
+    13700024: KorbHalter.003
+    13700026: KorbHalter.004
+    13700028: KorbHalter.005
+    13700030: KorbHalter.006
+    13700032: KorbHalter.007
+    13700034: RadSeiteA
+    13700036: RadSeiteB
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|RiesenRadDreeeeh
+      takeName: Armature|RiesenRadDreeeeh
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.009
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature/Bone/Bone.002
+        weight: 1
+      - path: Armature/Bone/Bone.002/Bone.010
+        weight: 1
+      - path: Armature/Bone/Bone.002/Bone.010/Bone.010_end
+        weight: 1
+      - path: Armature/Bone/Bone.003
+        weight: 1
+      - path: Armature/Bone/Bone.003/Bone.011
+        weight: 1
+      - path: Armature/Bone/Bone.003/Bone.011/Bone.011_end
+        weight: 1
+      - path: Armature/Bone/Bone.004
+        weight: 1
+      - path: Armature/Bone/Bone.004/Bone.012
+        weight: 1
+      - path: Armature/Bone/Bone.004/Bone.012/Bone.012_end
+        weight: 1
+      - path: Armature/Bone/Bone.005
+        weight: 1
+      - path: Armature/Bone/Bone.005/Bone.013
+        weight: 1
+      - path: Armature/Bone/Bone.005/Bone.013/Bone.013_end
+        weight: 1
+      - path: Armature/Bone/Bone.006
+        weight: 1
+      - path: Armature/Bone/Bone.006/Bone.014
+        weight: 1
+      - path: Armature/Bone/Bone.006/Bone.014/Bone.014_end
+        weight: 1
+      - path: Armature/Bone/Bone.007
+        weight: 1
+      - path: Armature/Bone/Bone.007/Bone.015
+        weight: 1
+      - path: Armature/Bone/Bone.007/Bone.015/Bone.015_end
+        weight: 1
+      - path: Armature/Bone/Bone.008
+        weight: 1
+      - path: Armature/Bone/Bone.008/Bone.016
+        weight: 1
+      - path: Armature/Bone/Bone.008/Bone.016/Bone.016_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Halterung
+        weight: 1
+      - path: Kabine
+        weight: 1
+      - path: Kabine.001
+        weight: 1
+      - path: Kabine.002
+        weight: 1
+      - path: Kabine.003
+        weight: 1
+      - path: Kabine.004
+        weight: 1
+      - path: Kabine.005
+        weight: 1
+      - path: Kabine.006
+        weight: 1
+      - path: Kabine.007
+        weight: 1
+      - path: KorbHalter
+        weight: 1
+      - path: KorbHalter.001
+        weight: 1
+      - path: KorbHalter.002
+        weight: 1
+      - path: KorbHalter.003
+        weight: 1
+      - path: KorbHalter.004
+        weight: 1
+      - path: KorbHalter.005
+        weight: 1
+      - path: KorbHalter.006
+        weight: 1
+      - path: KorbHalter.007
+        weight: 1
+      - path: RadSeiteA
+        weight: 1
+      - path: RadSeiteB
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

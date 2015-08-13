@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: f7f1bbbb66d8a1042acb2cbe5b981512
+timeCreated: 1439384599
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: "B\xFChne"
+    100002: //RootNode
+    100004: DJPult
+    100006: "Ger\xFCst"
+    100008: "HinterGrundB\xFChne"
+    100010: Lauter
+    100012: Lauter.001
+    100014: Mischpult
+    100016: NebelMaschine
+    100018: Neblmaschine
+    100020: Sprecher
+    100022: Sprecher.001
+    100024: Treppelein
+    100026: Treppelein.001
+    400000: "B\xFChne"
+    400002: //RootNode
+    400004: DJPult
+    400006: "Ger\xFCst"
+    400008: "HinterGrundB\xFChne"
+    400010: Lauter
+    400012: Lauter.001
+    400014: Mischpult
+    400016: NebelMaschine
+    400018: Neblmaschine
+    400020: Sprecher
+    400022: Sprecher.001
+    400024: Treppelein
+    400026: Treppelein.001
+    2300000: "B\xFChne"
+    2300002: DJPult
+    2300004: "Ger\xFCst"
+    2300006: "HinterGrundB\xFChne"
+    2300008: Lauter
+    2300010: Lauter.001
+    2300012: Mischpult
+    2300014: NebelMaschine
+    2300016: Neblmaschine
+    2300018: Sprecher
+    2300020: Sprecher.001
+    2300022: Treppelein
+    2300024: Treppelein.001
+    3300000: "B\xFChne"
+    3300002: DJPult
+    3300004: "Ger\xFCst"
+    3300006: "HinterGrundB\xFChne"
+    3300008: Lauter
+    3300010: Lauter.001
+    3300012: Mischpult
+    3300014: NebelMaschine
+    3300016: Neblmaschine
+    3300018: Sprecher
+    3300020: Sprecher.001
+    3300022: Treppelein
+    3300024: Treppelein.001
+    4300000: NebelMaschine
+    4300002: Neblmaschine
+    4300004: Mischpult
+    4300006: DJPult
+    4300008: Treppelein.001
+    4300010: Treppelein
+    4300012: "HinterGrundB\xFChne"
+    4300014: "Ger\xFCst"
+    4300016: Sprecher.001
+    4300018: Lauter.001
+    4300020: Sprecher
+    4300022: Lauter
+    4300024: "B\xFChne"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

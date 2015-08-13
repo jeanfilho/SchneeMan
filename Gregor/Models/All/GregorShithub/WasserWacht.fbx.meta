@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: e0ea49dc9c3242f4b850d6b60611c899
+timeCreated: 1439456965
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aufweg
+    100002: Aufweg.001
+    100004: Aufweg.002
+    100006: Aufweg.003
+    100008: Boden
+    100010: Fence
+    100012: Fence.001
+    100014: Fence.002
+    100016: Fence.003
+    100018: "FensterL\xE4den"
+    100020: "Fensterl\xE4den"
+    100022: "FensterL\xE4den.001"
+    100024: "Fensterl\xE4den.001"
+    100026: "H\xFCtte"
+    100028: Rettungsring
+    100030: Rettungsring.001
+    100032: Rettungsring.002
+    100034: Rettungsring.003
+    100036: //RootNode
+    100038: Wasserwacht
+    100040: Wasserwacht.001
+    400000: Aufweg
+    400002: Aufweg.001
+    400004: Aufweg.002
+    400006: Aufweg.003
+    400008: Boden
+    400010: Fence
+    400012: Fence.001
+    400014: Fence.002
+    400016: Fence.003
+    400018: "FensterL\xE4den"
+    400020: "Fensterl\xE4den"
+    400022: "FensterL\xE4den.001"
+    400024: "Fensterl\xE4den.001"
+    400026: "H\xFCtte"
+    400028: Rettungsring
+    400030: Rettungsring.001
+    400032: Rettungsring.002
+    400034: Rettungsring.003
+    400036: //RootNode
+    400038: Wasserwacht
+    400040: Wasserwacht.001
+    2300000: Aufweg
+    2300002: Aufweg.001
+    2300004: Aufweg.002
+    2300006: Aufweg.003
+    2300008: Boden
+    2300010: Fence
+    2300012: Fence.001
+    2300014: Fence.002
+    2300016: Fence.003
+    2300018: "FensterL\xE4den"
+    2300020: "Fensterl\xE4den"
+    2300022: "FensterL\xE4den.001"
+    2300024: "Fensterl\xE4den.001"
+    2300026: "H\xFCtte"
+    2300028: Rettungsring
+    2300030: Rettungsring.001
+    2300032: Rettungsring.002
+    2300034: Rettungsring.003
+    2300036: Wasserwacht
+    2300038: Wasserwacht.001
+    3300000: Aufweg
+    3300002: Aufweg.001
+    3300004: Aufweg.002
+    3300006: Aufweg.003
+    3300008: Boden
+    3300010: Fence
+    3300012: Fence.001
+    3300014: Fence.002
+    3300016: Fence.003
+    3300018: "FensterL\xE4den"
+    3300020: "Fensterl\xE4den"
+    3300022: "FensterL\xE4den.001"
+    3300024: "Fensterl\xE4den.001"
+    3300026: "H\xFCtte"
+    3300028: Rettungsring
+    3300030: Rettungsring.001
+    3300032: Rettungsring.002
+    3300034: Rettungsring.003
+    3300036: Wasserwacht
+    3300038: Wasserwacht.001
+    4300000: Rettungsring.003
+    4300002: Rettungsring.002
+    4300004: Rettungsring.001
+    4300006: "Fensterl\xE4den"
+    4300008: "Fensterl\xE4den.001"
+    4300010: "FensterL\xE4den.001"
+    4300012: "FensterL\xE4den"
+    4300014: Wasserwacht.001
+    4300016: Wasserwacht
+    4300018: Fence.002
+    4300020: Fence
+    4300022: Fence.003
+    4300024: Aufweg
+    4300026: Aufweg.003
+    4300028: Aufweg.002
+    4300030: Aufweg.001
+    4300032: Fence.001
+    4300034: "H\xFCtte"
+    4300036: Boden
+    4300038: Rettungsring
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

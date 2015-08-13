@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 0be8ab47a88c74148b9e4d23dc5a81c5
+timeCreated: 1439387255
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pa1
+    100002: Pa1.001
+    100004: Pa1.002
+    100006: Pa1.003
+    100008: Pa1.004
+    100010: Pa1.005
+    100012: Pa1.006
+    100014: Pa1.007
+    100016: PAlm
+    100018: PAlm.001
+    100020: PAlm.002
+    100022: PAlm.003
+    100024: PAlm.004
+    100026: PAlm.005
+    100028: PAlm.006
+    100030: PAlm.007
+    100032: PAlm.008
+    100034: PAlm.009
+    100036: PAlm.010
+    100038: PAlm.011
+    100040: PAlm.012
+    100042: PAlm.013
+    100044: PAlm.014
+    100046: PAlm.015
+    100048: PAlm.015_end
+    100050: //RootNode
+    100052: Palmenarmatur
+    100054: "PalmenBl\xE4tter"
+    100056: Stamm
+    400000: Pa1
+    400002: Pa1.001
+    400004: Pa1.002
+    400006: Pa1.003
+    400008: Pa1.004
+    400010: Pa1.005
+    400012: Pa1.006
+    400014: Pa1.007
+    400016: PAlm
+    400018: PAlm.001
+    400020: PAlm.002
+    400022: PAlm.003
+    400024: PAlm.004
+    400026: PAlm.005
+    400028: PAlm.006
+    400030: PAlm.007
+    400032: PAlm.008
+    400034: PAlm.009
+    400036: PAlm.010
+    400038: PAlm.011
+    400040: PAlm.012
+    400042: PAlm.013
+    400044: PAlm.014
+    400046: PAlm.015
+    400048: PAlm.015_end
+    400050: //RootNode
+    400052: Palmenarmatur
+    400054: "PalmenBl\xE4tter"
+    400056: Stamm
+    2300000: Pa1
+    2300002: Pa1.001
+    2300004: Pa1.002
+    2300006: Pa1.003
+    2300008: Pa1.004
+    2300010: Pa1.005
+    2300012: Pa1.006
+    2300014: Pa1.007
+    2300016: "PalmenBl\xE4tter"
+    3300000: Pa1
+    3300002: Pa1.001
+    3300004: Pa1.002
+    3300006: Pa1.003
+    3300008: Pa1.004
+    3300010: Pa1.005
+    3300012: Pa1.006
+    3300014: Pa1.007
+    3300016: "PalmenBl\xE4tter"
+    4300000: "PalmenBl\xE4tter"
+    4300002: Pa1.007
+    4300004: Pa1.006
+    4300006: Pa1.005
+    4300008: Pa1.004
+    4300010: Pa1.003
+    4300012: Pa1.002
+    4300014: Pa1.001
+    4300016: Pa1
+    4300018: Stamm
+    9500000: //RootNode
+    13700000: Stamm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

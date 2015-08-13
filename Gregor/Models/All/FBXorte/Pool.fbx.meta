@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: f7af48ac6e3e964418094545ba169cab
+timeCreated: 1439380634
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: HalfPipe
+    100002: PipenPipe
+    100004: PipenPipe.001
+    100006: //RootNode
+    100008: Pool
+    100010: PoolausenBoden
+    100012: Slidertile
+    100014: Slidertile.001
+    100016: Slidertile.002
+    100018: Sown
+    100020: Sown.001
+    400000: HalfPipe
+    400002: PipenPipe
+    400004: PipenPipe.001
+    400006: Pool
+    400008: //RootNode
+    400010: PoolausenBoden
+    400012: Slidertile
+    400014: Slidertile.001
+    400016: Slidertile.002
+    400018: Sown
+    400020: Sown.001
+    2300000: HalfPipe
+    2300002: PipenPipe
+    2300004: PipenPipe.001
+    2300006: Pool
+    2300008: PoolausenBoden
+    2300010: Slidertile
+    2300012: Slidertile.001
+    2300014: Slidertile.002
+    2300016: Sown
+    2300018: Sown.001
+    3300000: HalfPipe
+    3300002: PipenPipe
+    3300004: PipenPipe.001
+    3300006: Pool
+    3300008: PoolausenBoden
+    3300010: Slidertile
+    3300012: Slidertile.001
+    3300014: Slidertile.002
+    3300016: Sown
+    3300018: Sown.001
+    4300000: Slidertile.001
+    4300002: Sown.001
+    4300004: Slidertile.002
+    4300006: Sown
+    4300008: Slidertile
+    4300010: PipenPipe
+    4300012: PipenPipe.001
+    4300014: Pool
+    4300016: PoolausenBoden
+    4300018: HalfPipe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
